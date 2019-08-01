@@ -4,11 +4,9 @@
 
 Based on amusi's repositories: <https://github.com/amusi/awesome-object-detection>
 
-From 2015 to May, 2019.
+From 2015 to May, 2019. Some awesome papers and repositories.
 
-Some awesome papers and repositories.
-
-Sorted from recent to earliest:
+Sorted from recent to earlier:
 
 - CenterNet (2019)
 - M2Det (2019)
